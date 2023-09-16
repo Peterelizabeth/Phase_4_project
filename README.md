@@ -8,7 +8,8 @@ The dataset used for this project (ml-latest-small) contains 100836 ratings and 
 In addition, the ratings dataset contains;
 - movieId
 - userId
--rating
+- rating
+
 
 The dataset can be found here:'https://grouplens.org/datasets/movielens/latest/'
 
