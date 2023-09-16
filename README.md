@@ -4,7 +4,8 @@ The dataset used for this project (ml-latest-small) contains 100836 ratings and 
 - MovieId
 - title
 - genres
-In addition, the ratings dataset contsins;
+
+In addition, the ratings dataset contains;
 - movieId
 - userId
 -rating
